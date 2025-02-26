@@ -89,5 +89,3 @@ if (confirmacion) {
 } else {
     alert("Ingresa tus datos nuevamente por favor");
 }
-
-
